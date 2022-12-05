@@ -1,1 +1,2 @@
-# crowfunding_
+# crowfunding
+We created a crowdfunding ETL project and the SQL data analysis for ndependent Funding. The company has just received a new dataset that contains information about the backers who’ve pledged to the live projects. Specifically, I used the dataset to create an ERD and a table schema for creating a new table in the crowdfunding_db database. After uploading the CSV file that contains the backers’ information into the table. Utilizing the ETL process, we did an analysis by using SQL queries to organze information on backers who've pledged to live projects.
